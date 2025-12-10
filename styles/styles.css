@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+    color: blanchedalmond
+}
+
+h1 {
+    font-size: 36px;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: navy;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+p {
+    font-size: 25px;
+}
+
+#pinkparagraph {
+    color: rgb(234, 46, 159);
+
+}
+
+.pretty {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.common {
+    background-color: rgb(28, 28g, 28);
+    border: 2px solid white;
+    position: absolute;
+
+}
+
+.main {
+    top: 115px;
+    left: 130px;
+    right: 140px;
+    bottom: 40px;
+}
+
+.left {
+    top: 115px;
+    left: 15px;
+    width: 100px;
+    bottom: 40px;
+}
+
+.right {
+    top: 115pc;
+    right: 25px;
+    width: 100px;
+    height: 100px;
+}
+
+.footer {
+    bottom: 5px;
+    height: 25px;
+    left: 15px;
+    right: 25px;
+    position: fixed;
+    background-color: rgb(28, 28, 28);
+    border: 2px solid white;
+
+}
+
+.header {
+    z-index: 10;
+}
+
+.redtext{
+    color: red;
+    
+}
